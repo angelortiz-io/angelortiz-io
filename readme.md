@@ -23,7 +23,7 @@ class SoftwareEngineer()
     def __init__(self):
         self.name = "Angel Ortiz"
         self.role = "Software Engineer"
-        self.spoken_laguages = ["es_PE", "en_US"]
+        self.spoken_languages = ["es_PE", "en_US"]
         self.interests = [ "video games", "Python", "soccer", "rock music"]
 
     def work(coffee):
@@ -31,7 +31,7 @@ class SoftwareEngineer()
         return code
 
     def say_hello():
-        print("Hey! thanky ou for reaching out to my profile")
+        print("Hey! thank you for reaching out to my profile")
 
 
 me = SoftwareEngineer()
