@@ -82,9 +82,30 @@ me.say_hello()
 <a href="https://azure.microsoft.com/en-us/" title="Azure"><img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/black/white" /></a>
 
 ## Operating Systems
-<a href="https://www.apple.com/es/macos/" title="macOS"><img height="32" width="32" src="https://cdn.simpleicons.org/macos/black/white" /></a>
-<a href="https://www.linux.org" title="Linux"><img height="32" width="32" src="https://cdn.simpleicons.org/linux/black/white" /></a>
-<a href="https://ubuntu.com" title="Ubuntu"><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/black/white" /></a>
-<a href="https://archlinux.org" title="Arch Linux"><img height="32" width="32" src="https://cdn.simpleicons.org/archlinux/black/white" /></a>
+<a href="https://www.apple.com/es/macos/" title="macOS">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/macos/white">
+        <img height="32" width="32" alt="macOS" src="https://cdn.simpleicons.org/macos/black">
+    </picture>
+</a>
 
+<a href="https://www.linux.org" title="Linux">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/white">
+        <img height="32" width="32" alt="Linux" src="https://cdn.simpleicons.org/linux/black">
+    </picture>
+</a>
 
+<a href="https://ubuntu.com" title="Ubuntu">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ubuntu/white"> 
+        <img height="32" width="32" alt="Ubuntu" src="https://cdn.simpleicons.org/ubuntu/black" />
+    </picture>
+</a>
+
+<a href="https://archlinux.org" title="Arch Linux">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/archlinux/white"> 
+        <img height="32" width="32" alt="Arch Linux" src="https://cdn.simpleicons.org/archlinux/black" />
+    </picture>
+</a>
