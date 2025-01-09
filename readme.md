@@ -39,17 +39,28 @@ me.say_hello()
 
 ```
 ## Development tools
-
-<a href="https://code.visualstudio.com/" title="Visual Studio Code">
+<a href="https://www.jetbrains.com/es-es/pycharm/" title="Pycharm">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/visualstudiocode/white">
-        <img height="32" width="32" alt="Visual Studio Code" src="https://cdn.simpleicons.org/visualstudiocode/black">
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pycharm/white">
+        <img height="32" width="32" alt="Pycharm" src="https://cdn.simpleicons.org/pycharm/black">
     </picture>
 </a>
-<a href="https://iterm2.com" title="iTerm2">
+<a href="https://www.jetbrains.com/es-es/webstorm/" title="WebStorm">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/iterm2/white">
-        <img height="32" width="32" alt="iTerm2" src="https://cdn.simpleicons.org/iterm2/black">
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/webstorm/white">
+        <img height="32" width="32" alt="WebStorm" src="https://cdn.simpleicons.org/webstorm/black">
+    </picture>
+</a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vscodium/white">
+        <img height="32" width="32" alt="Visual Studio Code" src="https://cdn.simpleicons.org/vscodium/black">
+    </picture>
+</a>
+<a href="https://wezfurlong.org/wezterm/" title="WezTerm">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/wezterm/white">
+        <img height="32" width="32" alt="WezTerm" src="https://cdn.simpleicons.org/wezterm/black">
     </picture>
 </a>
 <a href="https://git-scm.com/" title="Git">
@@ -64,10 +75,10 @@ me.say_hello()
         <img height="32" width="32" alt="DataGrip" src="https://cdn.simpleicons.org/datagrip/black">
     </picture>
 </a>
-<a href="https://www.postman.com" title="Postman">
+<a href="https://www.usebruno.com" title="Bruno">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postman/white">
-        <img height="32" width="32" alt="Postman" src="https://cdn.simpleicons.org/postman/black">
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bruno/white">
+        <img height="32" width="32" alt="Bruno" src="https://cdn.simpleicons.org/bruno/black">
     </picture>
 </a>
 
@@ -160,12 +171,6 @@ me.say_hello()
         <img height="32" width="32" alt="PostgreSQL" src="https://cdn.simpleicons.org/postgresql/black">
     </picture>
 </a>
-<a href="https://www.oracle.com/database/" title="Oracle DB">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/oracle/white">
-        <img height="32" width="32" alt="Oracle DB" src="https://cdn.simpleicons.org/oracle/black">
-    </picture>
-</a>
 <a href="https://www.mongodb.com" title="MongoDB">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mongodb/white">
@@ -178,10 +183,10 @@ me.say_hello()
         <img height="32" width="32" alt="Redis" src="https://cdn.simpleicons.org/redis/black">
     </picture>
 </a>
-<a href="https://www.microsoft.com/en-us/sql-server/" title="MSSQL Server">
+<a href="https://www.snowflake.com/en/" title="Snowflake">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/microsoftsqlserver/white">
-        <img height="32" width="32" alt="MSSQL Server" src="https://cdn.simpleicons.org/microsoftsqlserver/black">
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/snowflake/white">
+        <img height="32" width="32" alt="Snowflake" src="https://cdn.simpleicons.org/snowflake/black">
     </picture>
 </a>
 
@@ -210,8 +215,8 @@ me.say_hello()
 ## Clouds
 <a href="https://aws.amazon.com" title="AWS">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/amazonaws/white">
-        <img height="32" width="32" alt="AWS" src="https://cdn.simpleicons.org/amazonaws/black">
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/amazonwebservices/white">
+        <img height="32" width="32" alt="AWS" src="https://cdn.simpleicons.org/amazonwebservices/black">
     </picture>
 </a>
 <a href="https://cloud.google.com" title="GCP">
@@ -220,10 +225,10 @@ me.say_hello()
         <img height="32" width="32" alt="GCP" src="https://cdn.simpleicons.org/googlecloud/black">
     </picture>
 </a>
-<a href="https://azure.microsoft.com/en-us/" title="Azure">
+<a href="https://www.digitalocean.com" title="Digital Ocean">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/microsoftazure/white">
-        <img height="32" width="32" alt="Azure" src="https://cdn.simpleicons.org/microsoftazure/black">
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/digitalocean/white">
+        <img height="32" width="32" alt="Digital Ocean" src="https://cdn.simpleicons.org/digitalocean/black">
     </picture>
 </a>
 
